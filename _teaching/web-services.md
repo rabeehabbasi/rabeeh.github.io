@@ -8,6 +8,7 @@ date: 2015-02-01
 location: "Islamabad, Pakistan"
 ---
 
+Offered: Fall 2011, Fall 2012, Fall 2013, Spring 2014, Spring 2015
 
 
 Aims and Objectives
@@ -37,4 +38,3 @@ Textbook(s)
 1. Web Services: Principles and Technology by Papazoglou, Pearson Education (2008)
 1. Restful Web Services by Richardson and Ruby, Orielly Media (2007)
 
-Offered: Fall 2011, Fall 2012, Fall 2013, Spring 2014, Spring 2015

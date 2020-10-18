@@ -8,6 +8,7 @@ date: 2019-09-01
 location: "Islamabad, Pakistan"
 ---
 
+Offered: Fall 2019
 
 
 Aims and Objectives
@@ -38,4 +39,3 @@ Textbook(s)
 1. Pro MERN Stack (2nd Ed) by Vasan Subramanian (2019)
 1. Practical Node.js (2nd Ed) by Azat Mardan (2018)
 
-Offered: Fall 2019

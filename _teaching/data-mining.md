@@ -8,6 +8,7 @@ date: 2013-09-01
 location: "Islamabad, Pakistan"
 ---
 
+Offered: Fall 2013
 
 
 Aims and Objectives
@@ -36,4 +37,3 @@ Textbook(s)
 ======
 1. Data Mining Concepts and Techniques (3rd edition) by Jiawei Han, Micheline Kamber, and Jian Pei (2011) 
 
-Offered: Fall 2013
