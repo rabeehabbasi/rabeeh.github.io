@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rabeeh Ayaz Abbasi"
+title: "About"
 excerpt: "Researcher, working on Social Media and Network Analytics"
 author_profile: true
 redirect_from: 
