@@ -100,7 +100,7 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                citation = citation+" "+author.first_names[0].replace('{','').replace('}','')+" "+author.last_names[0].replace('{','').replace('}','')+", "
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
@@ -125,6 +125,7 @@ for pubsource in publist:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
 
+
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
@@ -141,6 +142,16 @@ for pubsource in publist:
 
             
             ## Markdown description for individual page
+
+            abstract = False
+            if "abstract" in b.keys():
+                if len(str(b["abstract"])) > 5:
+                    abstract = True
+
+
+            if abstract:
+                md += "\n" + html_escape(b["abstract"]) + "\n"
+
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
