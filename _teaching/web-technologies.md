@@ -8,6 +8,4 @@ date: 2013-02-01
 location: "Islamabad, Pakistan"
 ---
 
-Offered
-======
-Fall 2012, Spring 2012, Spring 2013
+Offered: Fall 2012, Spring 2012, Spring 2013

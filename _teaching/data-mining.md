@@ -36,6 +36,4 @@ Textbook(s)
 ======
 1. Data Mining Concepts and Techniques (3rd edition) by Jiawei Han, Micheline Kamber, and Jian Pei (2011) 
 
-Offered
-======
-Fall 2013
+Offered: Fall 2013

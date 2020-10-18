@@ -8,6 +8,4 @@ date: 2011-09-01
 location: "Islamabad, Pakistan"
 ---
 
-Offered
-======
-Fall 2011
+Offered: Fall 2011

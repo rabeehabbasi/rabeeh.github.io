@@ -38,6 +38,4 @@ Textbook(s)
 1. Albert-László Barabási (2015). Network Science. Published Online
 1. Mark Newman (2018). Networks: An Introduction (Second Edition) OUP, Oxford
 
-Offered
-======
-Fall 2015, Fall 2018, Spring 2013, Spring 2015, Spring 2019, Spring 2020
+Offered: Fall 2015, Fall 2018, Spring 2013, Spring 2015, Spring 2019, Spring 2020
