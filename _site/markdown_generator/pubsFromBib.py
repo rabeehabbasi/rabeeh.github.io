@@ -149,9 +149,6 @@ for pubsource in publist:
                     abstract = True
 
 
-            if abstract:
-                md += "\n" + html_escape(b["abstract"]) + "\n"
-
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
@@ -159,6 +156,11 @@ for pubsource in publist:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+
+            if abstract:
+                md += "\n" + html_escape(b["abstract"]) + "\n"
+
+
 
             md_filename = os.path.basename(md_filename)
 
