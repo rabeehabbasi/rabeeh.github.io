@@ -2,3 +2,5 @@ _site/
 Gemfile.lock
 _talks/talks.tsv
 .ipynb_checkpoints/
+_projects/projects.ods
+_supervision/supervision.ods
