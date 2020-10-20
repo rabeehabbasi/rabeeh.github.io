@@ -5,5 +5,13 @@ date: 2019-09-01
 funding: "Ignite"
 amount: ".08 Million"
 collection: projects
-permalink: /projects/2019-grievances-detection-system
+type: projects
+permalink: /projects/2019-09-01-grievances-detection-system
 ---
+Grievances Detection System
+
+Student: Ghulam Farid
+
+Funded by Ignite
+
+Amount: PKR .08 Million
