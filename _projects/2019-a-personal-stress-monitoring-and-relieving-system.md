@@ -1,7 +1,7 @@
 ---
 title: "A Personal Stress Monitoring and Relieving System"
 team: "Ibrar Younas"
-date: 2019
+date: 2019-09-01
 funding: "Ignite"
 amount: ".08 Million"
 collection: projects

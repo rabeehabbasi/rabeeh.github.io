@@ -1,7 +1,7 @@
 ---
 title: "Application of Pervasive Computing in Garments Industry"
 team: "Omer Aslam"
-date: 2014
+date: 2014-09-01
 funding: "Ignite"
 amount: "0.14 Million"
 collection: projects

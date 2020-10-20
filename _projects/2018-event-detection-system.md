@@ -1,7 +1,7 @@
 ---
 title: "Event Detection System"
 team: "Ahsan Sheraz"
-date: 2018
+date: 2018-09-01
 funding: "Ignite"
 amount: ".08 Million"
 collection: projects
