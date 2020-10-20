@@ -1,4 +1,4 @@
-._DS*
+.DS_Store
 _site/
 Gemfile.lock
 _talks/talks.tsv
