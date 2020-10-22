@@ -72,6 +72,12 @@ Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Supervision
+======
+  <ul>{% for post in site.supervision %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
 Miscellaneous Activities
 ======

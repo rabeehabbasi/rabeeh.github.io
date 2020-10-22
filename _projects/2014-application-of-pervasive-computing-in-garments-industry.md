@@ -5,7 +5,7 @@ date: 2019-09-01
 funding: "QAU"
 amount: "0.14 Million"
 collection: projects
-type: projects
+type: "QAU"
 permalink: /projects/2019-09-01-application-of-pervasive-computing-in-garments-industry
 ---
 Application of Pervasive Computing in Garments Industry
