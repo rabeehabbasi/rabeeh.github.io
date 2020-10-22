@@ -83,8 +83,9 @@ author:
   name             : "Rabeeh Abbasi"
   avatar           : "profile.png"
   bio              : "Doing research in social media and network analytics"
-  location         : "Islamabad, Pakistan"
-  employer         : "Quaid-i-Azam University, Islamabad"
+  location         : Islamabad, Pakistan
+  employer         : Quaid-i-Azam University
+  employer_url     : "https://qau.edu.pk"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=q4AltY4AAAAJ"
   email            : "rabbasi@qau.edu.pk"
