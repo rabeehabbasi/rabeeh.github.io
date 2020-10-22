@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2011-present: Assistant/Tenured Associate Professor
+* 2011-present: Tenured Associate Professor
   * [Department of Computer Science](http://cs.qau.edu.pk/)
   * [Quaid-i-Azam University](http://qau.edu.pk/)
   * Teaching
