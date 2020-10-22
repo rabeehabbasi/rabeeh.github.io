@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Supervision"
+permalink: /supervision/
+author_profile: true
+---
+
+{% include base_path %}
+
+MPhil and PhD Theses Supervised
+
+
+{% for post in site.supervision reversed %}
+  {% include archive-single.html %}
+{% endfor %}
