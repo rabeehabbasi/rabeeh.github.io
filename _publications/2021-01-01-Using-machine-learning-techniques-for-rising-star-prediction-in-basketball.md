@@ -1,0 +1,12 @@
+---
+title: "Using machine learning techniques for rising star prediction in basketball"
+collection: publications
+permalink: /publication/2021-01-01-Using-machine-learning-techniques-for-rising-star-prediction-in-basketball
+date: 2021-01-01
+venue: 'Knowledge-Based Systems'
+paperurl: 'http://www.sciencedirect.com/science/article/pii/S0950705120306353'
+citation: ' Zafar Mahmood,  Ali Daud,  Rabeeh Abbasi, &quot;Using machine learning techniques for rising star prediction in basketball.&quot; Knowledge-Based Systems, 2021.'
+---
+[Access paper here](http://www.sciencedirect.com/science/article/pii/S0950705120306353){:target="_blank"}
+
+Rising stars in any field are the persons that have the potential to become popular in near future. Exploring rising stars in any organization will help the organization in their decisions making. Concept of rising star has been applied for finding rising authors in research community, rising business managers in telecommunication industry and rising players in the game of cricket. In this paper we presented the rising star prediction in basketball as a machine learning problem. We presented three types of co-players: co-players of same team in same game, co-players of opponent team in same game and co-players of both same and opponent team in same game. Co-players statistics are used as features for machine learning models. The co-player features are classified by feature size and type, which are further divided into different categories. Derived features along with their mathematical formulation are presented, that are derived from players statistics. The impact of co-players on prediction of rising star is measured through various machine learning models. Experimental results shows that derived features are dominant on different datasets in terms of F-measure score. The highest F-measure score achieved by derived features is 96%. Comparison of different machine learning models shows that Maximum Entropy Markov Model is dominant on all datasets in terms of F-measure score. The highest F-measure score achieved by Maximum Entropy Markov Model is 96%. Ranking comparison shows that most of the labeled rising stars are ranked in the top 100 in the subsequent six seasons. Comparison of rising stars with NBA (National Basketball Association) most improved players shows that rising stars have better efficiency in those seasons for which NBA most improved players were selected.
