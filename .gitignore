@@ -1,4 +1,6 @@
+CNAME
 .DS_Store
+_site/*
 _site/
 Gemfile.lock
 _talks/talks.tsv
