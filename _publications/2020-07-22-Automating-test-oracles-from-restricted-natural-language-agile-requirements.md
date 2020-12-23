@@ -2,10 +2,10 @@
 title: "Automating test oracles from restricted natural language agile requirements"
 collection: publications
 permalink: /publication/2020-07-22-Automating-test-oracles-from-restricted-natural-language-agile-requirements
-date: 2020-07-22
+date: 2021-01-01
 venue: 'Expert Systems'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12608'
-citation: ' Maryam Malik,  Muddassar Sindhu,  Akmal Khattak,  Rabeeh Abbasi,  Khalid Saleem, &quot;Automating test oracles from restricted natural language agile requirements.&quot; Expert Systems, 2020.'
+citation: ' Maryam Malik,  Muddassar Sindhu,  Akmal Khattak,  Rabeeh Abbasi,  Khalid Saleem, &quot;Automating test oracles from restricted natural language agile requirements.&quot; Expert Systems, vol. 38, no. 1, pp. e12608, 2021.'
 ---
 
 [Access paper here](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12608){:target="_blank"}

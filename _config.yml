@@ -11,8 +11,8 @@ title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Rabeeh Ayaz Abbasi"
 description              : &description "Researcher, working on social media and network analytics"
-#url                      : https://rabeeh.surge.sh 
-url                      : https://rabeehabbasi.github.io
+url                      : https://rabeeh.surge.sh 
+#url                      : https://rabeehabbasi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rabeehabbasi/rabeehabbasi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
