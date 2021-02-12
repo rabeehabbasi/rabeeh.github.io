@@ -4,11 +4,11 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/social-network-analysis
 venue: "Quaid-i-Azam University"
-date: 2020-02-01
+date: 2021-02-01
 location: "Islamabad, Pakistan"
 ---
 
-Offered: Fall 2015, Fall 2018, Spring 2013, Spring 2015, Spring 2019, Spring 2020
+Offered: Fall 2015, Fall 2018, Spring 2013, Spring 2015, Spring 2019, Spring 2020, Spring 2021
 
 
 Aims and Objectives
