@@ -35,6 +35,11 @@ var addressPoints = [
     11.3927685
   ],
   [
+    "Rawalpindi, Pakistan",
+    33.6038766,
+    73.048136
+  ],
+  [
     "Lahore, Pakistan",
     31.5656822,
     74.3141829
