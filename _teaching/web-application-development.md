@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Islamabad, Pakistan"
 ---
 
-Offered: Fall 2019
+Offered: Fall 2019, Fall 2021
 
 
 Aims and Objectives
