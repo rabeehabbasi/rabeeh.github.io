@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* 2011-present: Tenured Associate Professor
+* 2022-present: Head of Department
+* 2019-present: Tenured Associate Professor
+* 2011-2019: Assistant Professor
   * [Department of Computer Science](http://cs.qau.edu.pk/)
   * [Quaid-i-Azam University](http://qau.edu.pk/)
   * Teaching
