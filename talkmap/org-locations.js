@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Saarbr\u00fccken, Germany",
-    49.234362,
-    6.996379
+    49.247108100000005,
+    6.997495426501035
   ],
   [
     "Glasgow, United Kingdom",
