@@ -11,13 +11,13 @@ var addressPoints = [
   ],
   [
     "Saarbr\u00fccken, Germany",
-    49.247108100000005,
-    6.997495426501035
+    49.234362,
+    6.996379
   ],
   [
     "Glasgow, United Kingdom",
-    55.8609825,
-    -4.2488787
+    55.8606182,
+    -4.2497933
   ],
   [
     "Torino, Italy",
@@ -36,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Rawalpindi, Pakistan",
-    33.6038766,
-    73.048136
+    33.5914237,
+    73.0535122
   ],
   [
     "Lahore, Pakistan",
