@@ -47,6 +47,7 @@ Skills
 ======
 * Research
 * Teaching
+* Administration
 * Programming
 
 
@@ -84,32 +85,20 @@ Supervision
 Miscellaneous Activities
 ======
 * Research Related Activities
+  * Invited talk  "Introduction to Social Media Mining" for the researchers of Department of Defense and Strategic Studies, Quaid-i-Azam University, Islamabad. Jan 12, 2022
+  * Invited talk  "Transdisciplinary Approach in Digital Media Ecologies for the Challenges Faced by Humanity" at the plenary session "Transdisciplinary Approach in Digital Media Ecologies for the Challenges Faced by Humanity" at FJWU–AMCAP International Media Conference, 2021
+  * Invited talk "Social Media Mining: A hands-on experience" for Faculty Development Programme at NUML University, Dec 14, 2020
+  * Invited talk"Research Trends in Social Computing for Data Analysis" in the symposium "How data can help in reshaping academic, social, and economic practices" organized by Virtual University, Pakistan, June 19, 2020
   * Invited speaker for the talk “Research is Social Computing” for Faculty Development Program at Department of Engineering, National University of Modern Languages, Islamabad, Pakistan, 2019 
   * Local arrangements chair, International Conference on Emerging Technologies (ICET) 2018, Pakistan
   * Invited expert in PhD symposium at International Conference on Frontiers of Information Technology (FIT'15), Islamabad, Pakistan
   * Member of expert panel in PhD Symposium at Mohammad Ali Jinnah University on 13th December, 2014
 * Academic Administrative Activities
-  * Head of Project Committee at Quaid-i-Azam University
-  * Coordinator for MS admissions (Spring 2020)
-  * Coordinator for PhD admissions (Fall 2020)
-  * Department’s MSc, MS, MPhil, and PhD Admission Committee Member at Quaid-i-Azam University
-  * Departmental Coordinator for BS at Quaid-i-Azam University
-  * MSc Student’s Advisor at Quaid-i-Azam University
-  * Member of Board of Faculty, Riphah International University, Islamabad
-* PC Member
-  * International Conference on Behavioral, Economic, and Socio-Cultural Computing (BESC), 2019, China
-  * European Conference on Social Media (ECSM), 2014 – present
-  * International Conference on Emerging Technologies (ICET), 2014, 2018, Pakistan
-  * Frontiers in Technology (FIT) 2013, 2014, 2015, 2018, Pakistan
-  * International Conference on Advancements in Computational Sciences (ICACS), 2018, Pakistan
-  * Linked Data for Information Extraction (LD4IE), ISWC, 2015 USA, 2017 Austria
-  * Conference on Information Assurance and Cyber Security (CIACS) 2014, Pakistan
-  * Workshop on Metrics, Analysis and Tools for Online Community Management, INFORMATIK 2013 Workshop, Germany
-  * IEEE International Multi Topic Conference (INMIC) 2012, Pakistan
-  * Micro-Contributions by the Masses (TAGS 2010), EKAW 2010 Workshop, Portugal
-* Reviewing for Journals
-  * Computers in Human Behavior, Elsevier
-  * Knowledge-Based Systems, Elsevier
-  * Neurocomputing, Elsevier
-  * Semantic Web Journal, IOS Press
-  * Telematics and Informatics
+  * Head of Department, 2022 – present
+  * Focal Person for plagiarism related issues at Quaid-i-Azam University, 2020 – 2022
+  * Program evaluator for NCEAC accredited programmes, 2022 – present 
+  * Member of HEC’s accreditation/inspection committee, 2022 – present 
+  * Member of committee for defining rules for colleges affiliated with Quaid-i-Azam University, 2022
+  * Subject specialist for FPSC interviews, 2022
+  * Head of departmental projects committee, 2013 – 2014
+  * Member departmental admission committees for BS, MS, MPhil, and PhD Quaid-i-Azam University, 2011 – present

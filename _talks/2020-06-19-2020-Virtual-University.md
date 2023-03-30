@@ -8,6 +8,6 @@ date: 2020-06-19
 location: "Lahore, Pakistan"
 ---
 
-[More information here](https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4283)
+[More information](https://www.vu.edu.pk/NewsDetails.aspx?type=&NewsId=4283)
 
 Talk in the symposium &quot;How data can help in reshaping academic, social, and economic practices&quot; organized by Virtual University, Pakistan
