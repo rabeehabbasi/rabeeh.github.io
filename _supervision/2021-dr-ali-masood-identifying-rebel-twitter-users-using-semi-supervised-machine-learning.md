@@ -2,7 +2,7 @@
 type: "PhD"
 student: "Dr. Muhammad Ali Masood"
 title: "Identifying Rebel Twitter Users using Semi-Supervised Machine Learning"
-date: 2021-09-11
+date: 2021-06-29
 permalink: /supervision/2021-dr-ali-masood-identifying-rebel-twitter-users-using-semi-supervised-machine-learning
 collection: supervision
 ---
