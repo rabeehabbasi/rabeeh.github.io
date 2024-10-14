@@ -2,7 +2,7 @@
 type: "MPhil"
 student: "Atta Ullah"
 title: "Identifying Misinformation Spreaders on Twitter using Ego-Centric Network Embeddings"
-date: 2022-09-01
+date: 2023-09-01
 permalink: /supervision/2023-atta-ullah-identifying-misinformation-spreaders-on-twitter
 collection: supervision
 ---
