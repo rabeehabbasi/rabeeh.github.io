@@ -8,7 +8,7 @@ date: 2021-02-01
 location: "Islamabad, Pakistan"
 ---
 
-Offered: Fall 2011, Fall 2012, Fall 2014, Fall 2015, Fall 2018, Fall 2019, Fall 2020, Fall 2020, Spring 2011, Spring 2012, Spring 2014, Spring 2015, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2023
+Offered: Fall 2011, Fall 2012, Fall 2014, Fall 2015, Fall 2018, Fall 2019, Fall 2020, Fall 2020, Spring 2011, Spring 2012, Spring 2014, Spring 2015, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2023, Spring 2024, Fall 2024
 
 
 Aims and Objectives
