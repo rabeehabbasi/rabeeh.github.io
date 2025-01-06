@@ -17,11 +17,12 @@ Education
 
 Work experience
 ======
-* 2022-present: Head of Department
+* 2023-present: Tenured Professor
+* 2022-2024: Head of Department
 * 2019-present: Tenured Associate Professor
 * 2011-2019: Assistant Professor
-  * [Department of Computer Science](http://cs.qau.edu.pk/)
-  * [Quaid-i-Azam University](http://qau.edu.pk/)
+  * [Department of Computer Science](https://cs.qau.edu.pk/)
+  * [Quaid-i-Azam University](https://qau.edu.pk/)
   * Teaching
     * Social Network Analysis
     * Social Media Contents Analysis 
@@ -82,23 +83,17 @@ Supervision
   {% endfor %}</ul>
   
 
-Miscellaneous Activities
+Administrative Activities
 ======
-* Research Related Activities
-  * Invited talk  "Introduction to Social Media Mining" for the researchers of Department of Defense and Strategic Studies, Quaid-i-Azam University, Islamabad. Jan 12, 2022
-  * Invited talk  "Transdisciplinary Approach in Digital Media Ecologies for the Challenges Faced by Humanity" at the plenary session "Transdisciplinary Approach in Digital Media Ecologies for the Challenges Faced by Humanity" at FJWU–AMCAP International Media Conference, 2021
-  * Invited talk "Social Media Mining: A hands-on experience" for Faculty Development Programme at NUML University, Dec 14, 2020
-  * Invited talk"Research Trends in Social Computing for Data Analysis" in the symposium "How data can help in reshaping academic, social, and economic practices" organized by Virtual University, Pakistan, June 19, 2020
-  * Invited speaker for the talk “Research is Social Computing” for Faculty Development Program at Department of Engineering, National University of Modern Languages, Islamabad, Pakistan, 2019 
-  * Local arrangements chair, International Conference on Emerging Technologies (ICET) 2018, Pakistan
-  * Invited expert in PhD symposium at International Conference on Frontiers of Information Technology (FIT'15), Islamabad, Pakistan
-  * Member of expert panel in PhD Symposium at Mohammad Ali Jinnah University on 13th December, 2014
 * Academic Administrative Activities
-  * Head of Department, 2022 – present
+  * Chairperson, Department of Computer Science, Quaid-i-Azam University, 2022 – 2024
+  * Chairperson, Board of Studies, Department of Computer Science, 2022 – 2024
+  * Member Board of Studies, Virtual University, Pakistan, 2024 – Present
+  * Chairperson, Purchase Committee, Quaid-i-Azam University, 2022 – 2024 
   * Focal Person for plagiarism related issues at Quaid-i-Azam University, 2020 – 2022
   * Program evaluator for NCEAC accredited programmes, 2022 – present 
-  * Member of HEC’s accreditation/inspection committee, 2022 – present 
+  * Subject expert for HEC’s accreditation/inspection committee, 2022 – present 
   * Member of committee for defining rules for colleges affiliated with Quaid-i-Azam University, 2022
-  * Subject specialist for FPSC interviews, 2022
+  * Subject specialist for FPSC interviews, 2022 – present
   * Head of departmental projects committee, 2013 – 2014
   * Member departmental admission committees for BS, MS, MPhil, and PhD Quaid-i-Azam University, 2011 – present
