@@ -89,6 +89,7 @@ Administrative Activities
   * Chairperson, Department of Computer Science, Quaid-i-Azam University, 2022 – 2024
   * Chairperson, Board of Studies, Department of Computer Science, 2022 – 2024
   * Member Board of Studies, Virtual University, Pakistan, 2024 – Present
+  * Member Board of Studies, Department Tenure Committee, Board of Faculty, and Academic Council, Quaid-i-Azam University, 2022 – Present
   * Chairperson, Purchase Committee, Quaid-i-Azam University, 2022 – 2024 
   * Focal Person for plagiarism related issues at Quaid-i-Azam University, 2020 – 2022
   * Program evaluator for NCEAC accredited programmes, 2022 – present 
